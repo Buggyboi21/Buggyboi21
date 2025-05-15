@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Buggyboi21
--![Uploading 68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966.gif…]()
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning: phyton
+- 💞️ I’m looking to collaborate : on small startup projects
+- 📫 How to reach me : by my socials
 
 <!---
 Buggyboi21/Buggyboi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
