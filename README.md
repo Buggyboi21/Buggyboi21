@@ -1,27 +1,59 @@
-<h1 align="center">Hi 👋, I'm Nauman Hanif</h1>
-<h3 align="center">A passionate coder from Pakistan</h3>
+<div align='center'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buggyboi21&label=Profile%20views&color=0e75b6&style=flat" alt="buggyboi21" /> </p>
+<img src='assets/banner.svg' alt='Nauman Hanif: Computer Science student, code that cooks' width='100%'>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buggyboi21" alt="buggyboi21" /></a> </p>
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FB923C&center=true&vCenter=true&width=560&height=40&lines=Java+%7C+Python+%7C+React;Building+apps+and+automation;Open+to+graduate+roles+and+freelance' alt='Typing animation of skills and availability'>
 
-- 🌱 I’m currently learning **python and react**
+<br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Buggyboi21](https://github.com/Buggyboi21)
+<img src='https://img.shields.io/badge/Open%20to-Graduate%20roles-22c55e?style=for-the-badge' alt='Open to graduate roles'>
+<img src='https://img.shields.io/badge/Freelance-Available-fb923c?style=for-the-badge' alt='Available for freelance'>
+<img src='https://img.shields.io/badge/University%20of-Bedfordshire-1e3a5f?style=for-the-badge' alt='University of Bedfordshire'>
 
-- 📝 I do create content on [https://www.instagram.com/dogo_pixels/](https://www.instagram.com/dogo_pixels/)
+</div>
 
-- 📫 How to reach me **naumanhanif99@gmail.com**
+## 👋 About me
 
-- 📄 Know about my experiences [https://pdftolink.online/share/tmp-mc3awbet-25325121-2f9e-44a1-80ea-d991e19d64cd](https://pdftolink.online/share/tmp-mc3awbet-25325121-2f9e-44a1-80ea-d991e19d64cd)
+I'm a final-year Computer Science student at the University of Bedfordshire. I build apps and automation tools with Java, Python and React, and I make the visuals myself with Photoshop and Illustrator, so my work is built to look as good as it runs.
 
-- ⚡ Fun fact **I can do magic tricks**
+> **Recipe card: Nauman Hanif**
+>
+> **Ingredients:** 2 cups Java · 1 cup Python · a handful of React · a dash of Firebase and MySQL · design flair
+>
+> **Method:** Build, test, ship, repeat
+>
+> **Serves:** employers and freelance clients
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🍽️ Featured project
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**Food, calorie and recipe automation** (final-year project)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buggyboi21&show_icons=true&locale=en" alt="buggyboi21" /></p>
+<img src='https://img.shields.io/badge/Status-In%20progress-fb923c?style=flat-square' alt='Status: in progress'> <img src='https://img.shields.io/badge/Due-December%202026-1e3a5f?style=flat-square' alt='Due December 2026'>
+
+An automated system for food, calories and recipes. [One line on what it does and the tech it uses.] [Link to the repo once it exists.]
+
+<!-- Uncomment once you have a screenshot:
+<img src='assets/fyp-preview.png' alt='Screenshot of the final-year project' width='600'>
+-->
+
+## 🧰 Tech stack
+
+<img src='https://skillicons.dev/icons?i=java,py,js,react,androidstudio,firebase,mysql,html,css,ps,ai&perline=11' alt='Java, Python, JavaScript, React, Android Studio, Firebase, MySQL, HTML, CSS, Photoshop, Illustrator'>
+
+## 💼 Freelance
+
+| 📱 Apps | 🌐 Web | 🎨 Design |
+| --- | --- | --- |
+| Android apps in Java | Simple web apps in React | Social media and brand assets |
+
+Message me with a short description of what you need and your timeline, and I'll reply with a plan and an estimate.
+
+## 📫 Get in touch
+
+<a href='mailto:naumanhanif99@gmail.com'><img src='https://img.shields.io/badge/Email-naumanhanif99%40gmail.com-fb923c?style=for-the-badge' alt='Email'></a>
+<a href='https://www.linkedin.com/in/nauman-hanif-/'><img src='https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge' alt='LinkedIn'></a>
+<a href='https://www.instagram.com/dogo_pixels/'><img src='https://img.shields.io/badge/Instagram-dogo__pixels-e4405f?style=for-the-badge' alt='Instagram'></a>
+
+CV: [add permanent link]
+
+⚡ Fun fact: I can do magic tricks.
