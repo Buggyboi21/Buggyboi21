@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src='assets/banner.svg' alt='Nauman Hanif: Computer Science student, code that cooks' width='100%'>
+<img src='banner.svg' alt='Nauman Hanif: Computer Science student, code that cooks' width='100%'>
 
 <img src='https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FB923C&center=true&vCenter=true&width=560&height=40&lines=Java+%7C+Python+%7C+React;Building+apps+and+automation;Open+to+graduate+roles+and+freelance' alt='Typing animation of skills and availability'>
 
